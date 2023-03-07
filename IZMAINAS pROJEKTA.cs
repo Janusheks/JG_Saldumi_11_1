@@ -58,7 +58,7 @@ namespace JG_Saldumi_11
 
             try
             {
-            Button2.BackColor = (Button.BackColor == Color.Green) ? Color.Red : Color.Blue;
+                Button2.BackColor = (Button.BackColor == Color.Green);
             }
         }
     }
